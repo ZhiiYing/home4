@@ -18,4 +18,8 @@
 {"uri": "https://ZhiiYing.github.io/js/%E6%A8%A1%E6%9D%BF.html","title": "模板",
 	"tags": [],
 	"description": "模板",
-	"content": ""}]
+	"content": ""},
+{"uri": "https://ZhiiYing.github.io/js/","title": "計算機",
+	"tags": [],
+	"description": "",
+	"content": " #scr{ width:93% } .common { background-color:grey; width: 22%; padding: 0px; border:none; } .special{ background-color:green; width: 22%; padding: 0px; border:none; }   function do7() { scr.value=scr.value+\"7\" } function donumber(e){ scr.value=scr.value+e.value } function clearscr() { scr.value=\" \" } function doequ() { temp= eval(scr.value) scr.value = temp.toPrecision(15) }         "}]

@@ -53,10 +53,10 @@
     
     <item>
       <title>計算機</title>
-      <link>https://ZhiiYing.github.io/index.html</link>
+      <link>https://ZhiiYing.github.io/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ZhiiYing.github.io/index.html</guid>
+      <guid>https://ZhiiYing.github.io/js/</guid>
       <description> #scr{ width:93% } .common { background-color:grey; width: 22%; padding: 0px; border:none; } .special{ background-color:green; width: 22%; padding: 0px; border:none; }   function do7() { scr.value=scr.value+&#34;7&#34; } function donumber(e){ scr.value=scr.value+e.value } function clearscr() { scr.value=&#34; &#34; } function doequ() { temp= eval(scr.value) scr.value = temp.toPrecision(15) }         </description>
     </item>
     
